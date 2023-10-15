@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanteStockholm
-- 👀 I’m interested in Python and AI.
+- 👀 I’m interested in Python and Retro Gaming.
 - 🌱 I recently made a text-based RPG game. Please try it :-)
 - 💞️ I’m looking to collaborate on python projects. 
 - 📫 How to reach me: dante_stockholm@yahoo.com
